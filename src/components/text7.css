@@ -1,0 +1,48 @@
+.para-a {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 146%;
+
+  color: #222222;
+
+  opacity: 0.8;
+}
+
+.para-b {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 130%;
+
+  color: #222222;
+  margin-top: 10px;
+}
+
+.para-c {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 146%;
+
+  margin-top: 15px;
+  color: #222222;
+  margin-bottom: 15px;
+
+  opacity: 0.4;
+}
+
+.outer {
+  margin-left: 190px;
+  display: inline-flex;
+}
+
+.img {
+  width: 600px;
+  height: 800px;
+  margin-left: 200px;
+  margin-top: -150px;
+}

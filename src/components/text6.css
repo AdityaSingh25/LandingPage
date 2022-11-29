@@ -1,0 +1,13 @@
+.all {
+  display: inline-flex;
+  margin-left: 90px;
+}
+
+.part1 {
+  margin-top: -260px;
+}
+
+.texts {
+  margin-left: 150px;
+  margin-top: 0px;
+}

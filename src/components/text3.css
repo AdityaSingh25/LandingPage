@@ -1,0 +1,37 @@
+.combine {
+  display: inline-flex;
+  position: absolute;
+  top: 600px;
+  left: 130px;
+  margin-left: 4px;
+}
+
+.our {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+
+  /* Dark */
+
+  color: #222222;
+
+  opacity: 0.3;
+}
+
+.project {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+
+  /* Dark */
+
+  color: #222222;
+}
